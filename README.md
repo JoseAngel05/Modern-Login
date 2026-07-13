@@ -1,5 +1,5 @@
 # Modern Login
-
+![Vista del login](./src/assets/img.png)
 Un proyecto de demo en React + Vite que muestra una interfaz moderna de autenticación con:
 
 - Login y registro en una sola experiencia con animación
